@@ -1,7 +1,7 @@
 About
 ---
 
-yarn (node package manegaer) completion script for zsh.
+[yarn](https://github.com/yarnpkg/yarn) (Fast, reliable, and secure dependency management for JavaScript.) command completion for zsh.
 
 Requirements
 ---
@@ -14,7 +14,7 @@ Installation
 - install with [zplug](https://github.com/zplug/zplug):
 
 ```bash
-zplug "maxmellon/yarn_completion.zsh"
+zplug "maxmellon/yarn_completion"
 ```
 
 LICENSE
@@ -22,4 +22,4 @@ LICENSE
 
 - [MIT](./LICENSE.txt)
 
-  (c) MaxMellonn (Kento TSUJI) <maxmellon1994@gmail.com>
+  (c) MaxMellon (Kento TSUJI) <maxmellon1994@gmail.com>
