@@ -24,7 +24,7 @@ _yarn() {
       'remove[Remove package and update package.json and yarn.lock ]' \
       'run[Runs a defined package script.]' \
       'self-update[Updates Yarn to the latest version.]' \
-      'add[Add, remove, or list tags on a package.]' \
+      'tag[Add, remove, or list tags on a package.]' \
       'team[Maintain team memberships]' \
       'unlink[Unlink a previously created symlink for a package.]' \
       'upgrade[Upgrades packages to their latest version based on the specified range.]' \
